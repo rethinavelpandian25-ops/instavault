@@ -1,0 +1,6 @@
+{
+  "name": "InstaVault - Fast & Free Instagram Downloader",
+  "description": "Download Instagram Reels, Posts, Stories, and Highlights in 1080p, 720p, 480p and Audio. Built with high-speed server-side caching, lifetime free access, and a clean ad-free interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
